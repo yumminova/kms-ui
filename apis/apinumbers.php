@@ -1,3 +1,13 @@
+i know its old, but still.....
+
+$cfg = array('url_kazoo' => 'http://localhost:8000'
+            ,'usr_kazoo' => 'adminuc1'
+            ,'pwd_kazoo' => 'kucipak001'
+            ,'realm_kazoo' => 'sip.uc1.mycircls.com');
+
+
+
+
 <?php
 
 /**
