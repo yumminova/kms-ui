@@ -353,7 +353,7 @@
 		"title": "Service plans",
 		"get": { "verb": "GET", "url": "accounts/{accountId}/service_plans/{planId}" },
 		"add": { "verb": "POST", "url": "accounts/{accountId}/service_plans/{planId}", "schemas": "schemas/service_plans" },
-		"addMany": { "verb": "POST", "url": "accounts/{accountId}/service_plans/" },
+		"addMany": { "verb": "POST", "url": "accounts/{accountId}/services/" },
 		"remove": { "verb": "DELETE", "url": "accounts/{accountId}/service_plans/{planId}" },
 		"removeMany": { "verb": "DELETE", "url": "accounts/{accountId}/service_plans/" },
 		"update": { "verb": "POST", "url": "accounts/{accountId}/service_plans/", "schemas": "schemas/service_plans" },
